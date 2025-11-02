@@ -9,6 +9,10 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNGEyZjYwOTEtZGYzYS00YzA0LWIwMmItMjMyZTc1OTc1ZDkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1d11288d1749d47231dd)
 
+[Video Presentation](https://youtu.be/PDnCG9w1at8)
+
+[Linkedin Post](https://tinyurl.com/5acayps3)
+
 ## 🔍 Problem Statement:
 + AtliQ Technologies, a rapidly growing hardware company has been struggling with declining performance in Latin America due to their reliance on Excel-based reporting for analytics which limited timely decision-making, KPI tracking and competitiveness.
 
