@@ -50,7 +50,7 @@ The Home View serves as the **central hub** of the Business Insights 360 dashboa
 - 📊 **Interactive navigation buttons** for smooth access to different dashboard views    
 - 💡 Designed for **intuitive user experience** — enabling faster insights and decision-making  
 
-![Home Page](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
+![Home Page](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/1_Home.png)
 ---
 ## 💰 Finance View  
 Provides a complete overview of **Profit & Loss performance** across markets, customers, and products.  
