@@ -48,6 +48,7 @@ Provides a complete overview of **Profit & Loss performance** across markets, cu
 - 📋 Detailed **P&L statement breakdown** for in-depth analysis  
 - 🏆 Identification of **top and bottom-performing** customers and products  
 
+![Finance Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/2_Finance_View.png)
 ---
 
 ## 📈 Sales View  
