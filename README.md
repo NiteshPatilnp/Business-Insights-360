@@ -61,6 +61,7 @@ Focuses on **Net Sales**, **Gross Margin (GM)**, and **GM%**, segmented by custo
 - 🌍 **Regional sales performance** comparison  
 - 📈 **Trend analysis** to monitor sales growth over time  
 
+![sales Dashboard](https://github.com/Revathi-jaisankar/Business-Insights-360_power-BI-Project_AtliQ-Hardware/blob/main/3_Sales_view.png)
 ---
 
 ## 📢 Marketing View  
@@ -73,6 +74,7 @@ Analyzes marketing performance by evaluating **operational costs**, **promotiona
 - 🎯 **Market positioning** and profitability insights  
 - 📈 Tracking of **overall marketing expenses** and their business impact  
 
+![Market Dashboard](https://github.com/Revathi-jaisankar/Business-Insights-360_power-BI-Project_AtliQ-Hardware/blob/main/4_Market_view.png)
 ---
 
 ## 🚚 Supply Chain View  
@@ -85,6 +87,7 @@ Monitors **forecast accuracy**, **demand errors**, and **inventory risks**, ensu
 - ⚠️ **Excess inventory and stockout alerts** for better risk management  
 - 📈 **Supply chain KPI** monitoring over time  
 
+![supply chain Dashboard](https://github.com/Revathi-jaisankar/Business-Insights-360_power-BI-Project_AtliQ-Hardware/blob/main/5_Supply_Chain_View.png)
 ---
 
 ## 👔 Executive View  
@@ -97,6 +100,7 @@ Gives leadership a **strategic overview** of company performance, risks, and opp
 - 🌍 **Revenue Contribution (2022 EST):** PCs lead, followed by Peripherals, Accessories, and Storage  
 - 🎯 **Market Share Overview:** Comparison with key competitors such as **Dell, Lenovo, and HP** for strategic benchmarking  
 
+![Executive Dashboard](https://github.com/Revathi-jaisankar/Business-Insights-360_power-BI-Project_AtliQ-Hardware/blob/main/6_Executive_View.png)
 ---
 ## 💬 Feedback
 
