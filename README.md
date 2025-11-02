@@ -117,6 +117,22 @@ Gives leadership a **strategic overview** of company performance, risks, and opp
 
 ![Executive Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/6_Executive_View.png)
 ---
+
+## 📊 Key Insights  
+
+Despite achieving **$3.74B in Net Sales** and maintaining a healthy **38.1% Gross Margin**, AtliQ Hardware faces a **-14% Net Profit Margin**, primarily driven by **high operational costs** and **aggressive discounting strategies**.  
+
+- 🌏 **Regional Performance:**  
+  - **APAC** leads in sales volume but struggles with profitability due to **elevated advertising expenditures**.  
+  - **LATAM**, on the other hand, experiences **slower growth** owing to **limited marketing and promotional investments**.  
+
+- 🔮 **Forecasting Accuracy:**  
+  - Accuracy has improved to **81.2%**, yet a **Net Error of -$3.47M** highlights consistent **under-forecasting** issues.  
+  - This imbalance has resulted in **stockouts** (notably on *Amazon, AtliQ e-Store,* and *Vijay Sales*) and **excess inventory** in channels like *Sage*.  
+
+- 📈 **Market Share Growth:**  
+  - AtliQ Hardware’s **market share rose from 1.1% in 2021 to 5.9%**, reflecting strong positive momentum and growing brand traction.  
+
 ## 💬 Feedback
 
 I’d love to hear your thoughts and suggestions on this project!  
