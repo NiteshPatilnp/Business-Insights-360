@@ -118,7 +118,7 @@ Gives leadership a **strategic overview** of company performance, risks, and opp
 ![Executive Dashboard](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/6_Executive_View.png)
 ---
 
-## 📊 Key Insights  
+## 📊 Key Results
 
 Despite achieving **$3.74B in Net Sales** and maintaining a healthy **38.1% Gross Margin**, AtliQ Hardware faces a **-14% Net Profit Margin**, primarily driven by **high operational costs** and **aggressive discounting strategies**.  
 
