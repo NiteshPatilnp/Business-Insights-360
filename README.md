@@ -43,12 +43,13 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 # 🔍 Key Dashboard Insights
 ## 🏠 Home View  
 
-The Home View serves as the **central hub** of the Business Insights 360 dashboard — providing quick navigation to all major views such as Finance, Sales, Marketing, Supply Chain, and Executive. It gives users a short summary of the respective views and acts as the entry point for detailed exploration.  
+The Home View serves as the **central hub** of the Business Insights 360 dashboard — providing quick navigation to all major views such as Finance, Sales, Marketing, Supply Chain, and Executive. It gives users a short summary of the respective views and acts as the entry point for detailed exploration. It also contains Information button containing related information about the dashboard and also a Support button for the suport if any bug is discovered. 
 
 ### 🧩 Key Highlights  
 - 🚀 **High-level summary** of key KPIs across all business domains  
 - 📊 **Interactive navigation buttons** for smooth access to different dashboard views    
-- 💡 Designed for **intuitive user experience** — enabling faster insights and decision-making  
+- 💡 Designed for **intuitive user experience** — enabling faster insights and decision-making
+- 👥 Contains Support and Information related to dashboard
 
 ![Home Page](https://github.com/NiteshPatilnp/Business-Insights-360/blob/main/1_Home.png)
 ---
